@@ -1,1 +1,1 @@
-# Quiz_game - project for Day 17 on Angela Yu's Python course
+# Quiz_game - project for day 17 of Angela Yu's 100 days of code Python course
